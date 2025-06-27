@@ -1,0 +1,11 @@
+/home/yashar/projects/terminal-assistant/c_src/script/rust_script/target/debug/deps/libbitflags-98bb797b1331434f.rmeta: /home/yashar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.1/src/lib.rs /home/yashar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.1/src/iter.rs /home/yashar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.1/src/parser.rs /home/yashar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.1/src/traits.rs /home/yashar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.1/src/public.rs /home/yashar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.1/src/internal.rs /home/yashar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.1/src/external.rs
+
+/home/yashar/projects/terminal-assistant/c_src/script/rust_script/target/debug/deps/bitflags-98bb797b1331434f.d: /home/yashar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.1/src/lib.rs /home/yashar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.1/src/iter.rs /home/yashar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.1/src/parser.rs /home/yashar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.1/src/traits.rs /home/yashar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.1/src/public.rs /home/yashar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.1/src/internal.rs /home/yashar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.1/src/external.rs
+
+/home/yashar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.1/src/lib.rs:
+/home/yashar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.1/src/iter.rs:
+/home/yashar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.1/src/parser.rs:
+/home/yashar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.1/src/traits.rs:
+/home/yashar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.1/src/public.rs:
+/home/yashar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.1/src/internal.rs:
+/home/yashar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.1/src/external.rs:

@@ -1,0 +1,13 @@
+/home/yashar/projects/terminal-assistant/c_src/script/rust_script/target/debug/deps/libnix-0ab27cc9dd68c5a1.rmeta: /home/yashar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.27.1/src/lib.rs /home/yashar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.27.1/src/macros.rs /home/yashar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.27.1/src/errno.rs /home/yashar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.27.1/src/fcntl.rs /home/yashar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.27.1/src/sys/mod.rs /home/yashar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.27.1/src/sys/signal.rs /home/yashar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.27.1/src/sys/sysinfo.rs /home/yashar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.27.1/src/sys/time.rs /home/yashar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.27.1/src/unistd.rs
+
+/home/yashar/projects/terminal-assistant/c_src/script/rust_script/target/debug/deps/nix-0ab27cc9dd68c5a1.d: /home/yashar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.27.1/src/lib.rs /home/yashar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.27.1/src/macros.rs /home/yashar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.27.1/src/errno.rs /home/yashar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.27.1/src/fcntl.rs /home/yashar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.27.1/src/sys/mod.rs /home/yashar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.27.1/src/sys/signal.rs /home/yashar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.27.1/src/sys/sysinfo.rs /home/yashar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.27.1/src/sys/time.rs /home/yashar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.27.1/src/unistd.rs
+
+/home/yashar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.27.1/src/lib.rs:
+/home/yashar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.27.1/src/macros.rs:
+/home/yashar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.27.1/src/errno.rs:
+/home/yashar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.27.1/src/fcntl.rs:
+/home/yashar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.27.1/src/sys/mod.rs:
+/home/yashar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.27.1/src/sys/signal.rs:
+/home/yashar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.27.1/src/sys/sysinfo.rs:
+/home/yashar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.27.1/src/sys/time.rs:
+/home/yashar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.27.1/src/unistd.rs:
